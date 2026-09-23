@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Lucas16326/Lucas16326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @Lucas16326
+- 👀 I’m interested in 打排球
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on 長榮大學
+- 📫 How to reach me 113b06226@mailst.cjcu.edu.tw
+- 😄 Pronouns:
+- ⚡ Fun fact:
+Licenses and Certificates：ESG證照(管理學)
+<!---
+kys1234567/kys1234567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
