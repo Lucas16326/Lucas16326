@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucas16326
-- 👀 I’m interested in 打排球
+- 👀 I’m interested in 打排球、看電影、
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on 長榮大學
 - 📫 How to reach me 113b06226@mailst.cjcu.edu.tw
